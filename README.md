@@ -27,3 +27,4 @@ The program relies on the following libraries:
 To install these dependencies use
 1. pip install pillow
 2. pip install PyPDF2
+3. Tkinter should come with standard Python installation
