@@ -19,7 +19,7 @@ Watch the usage Demo video on YouTube: [Click here](https://www.youtube.com/watc
 
 ### Installation and Dependencies
 
-The program relies on the following libraries: 
+The program relies on the following libraries:   
 **1. Tkinter**  
 **2. Pillow**  
 **3. PyPDF2**  
