@@ -1,20 +1,21 @@
 ### FileSorter
 
-MedTaker is a user-friendly web app designed for effortlessly tracking the medicine consumption of users. 
-Effortlessly handle your medicine inventory and associated entries. This app allows users to:
 
-**Add Medicine and Entries:** 
-Easily create new types of medicines and corresponding entries for accurate tracking.
+FileSorter is a versatile utility program designed to streamline various file management tasks in one convenient tool. 
+It serves as a comprehensive solution for merging JPG files, converting JPGs to PDFs, and organizing JPGs into folders.
 
-**Edit Information:** 
-Make necessary adjustments to medicine details and entries to keep information up to date.
+**Merge Files:** 
+Converts JPEG files to PDFs, sorts them, and then merges them into a single PDF.
 
-**Delete Medicine and Entries:** 
-Remove outdated or no longer relevant medicine and corresponding entries.
+**Convert To PDF:** 
+Converts JPEG files to PDFs and organizes them into folders based on a naming convention.
+
+**Sort Into Folder:** 
+Organizes files with underscores in their names into folders based on the prefixes of the files.
 
 ### Usage Video
 
-Watch the usage Demo video on YouTube: [Click here](https://www.youtube.com/watch?v=FYnisj7iD2A).
+Watch the usage Demo video on YouTube: [Click here](https://www.youtube.com/watch?v=wA0Ai0Fogfo).
 
 ### Installation and Dependencies
 
